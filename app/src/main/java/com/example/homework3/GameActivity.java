@@ -139,7 +139,7 @@ public class GameActivity extends AppCompatActivity {
         btnTwoJotaro.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if (jorno){
+                if (jotaro){
                     Toast.makeText(GameActivity.this , "Yes" , Toast.LENGTH_SHORT).show();
                     YoYo.with(Techniques.Swing)
                             .duration(800)
@@ -200,7 +200,7 @@ public class GameActivity extends AppCompatActivity {
         btnThreeJosuke.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if (jorno){
+                if (josuke){
                     Toast.makeText(GameActivity.this , "Yes" , Toast.LENGTH_SHORT).show();
                     YoYo.with(Techniques.Swing)
                             .duration(800)
