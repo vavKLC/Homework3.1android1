@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="start">Start</string>
+    <string name="game">Game</string>
+    <string name="image1">image1</string>
+    <string name="image2">image2</string>
+    <string name="image3">image3</string>
+    <string name="jorno">Jorno</string>
+    <string name="jotaro">Jotaro</string>
+    <string name="josuke">Josuke</string>
+</resources>
